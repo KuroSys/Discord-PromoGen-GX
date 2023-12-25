@@ -1,2 +1,1 @@
-[Hash Sign(#)][Space]Install requests
-[Tab][Tab]pip install requests
+Install requirements (requests etc.), and have fun using it. No Proxies needed.
